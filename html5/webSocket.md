@@ -6,5 +6,5 @@
 [参考文献]
 websocket：http://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/
 w3cshool:http://www.w3cschool.cn/html5/html5-websocket.html
-MDN:https://developer.mozilla.org/zh-CN/docs/Web/API/Worker
+MDN:https://developer.mozilla.org/zh-CN/docs/Web/API/WebSocket
 </pre>
