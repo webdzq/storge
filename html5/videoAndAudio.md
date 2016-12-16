@@ -1,0 +1,12 @@
+#音视频功能及应用：(video,audio,webrtc)
+<pre>
+1，音视频的api不是很完善，只是简单的支持。
+2，如果要做强大的网页播放器。还得借住插件videojs（https://github.com/videojs）
+3，最近视频直播比较火。webrtc协议.
+4，它的强大，远不止这些，只有你想不到，没有它做不到！
+[参考文献]
+github上的webrtc：https://github.com/webrtc/samples
+w3cshool:http://www.w3cschool.cn/html5/html5-geolocation.html
+MDN:https://developer.mozilla.org/zh-CN/docs/Web/API/WebRTC_API
+webrtc博客：http://www.cnblogs.com/jscode/p/3601648.html
+</pre>
